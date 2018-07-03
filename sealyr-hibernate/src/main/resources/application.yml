@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: sealyr-hibernate
+server:
+  port: 18011
