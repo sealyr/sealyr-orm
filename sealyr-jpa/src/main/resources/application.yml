@@ -1,5 +1,0 @@
-spring:
-  application:
-    name: sealyr-jpa
-server:
-  port: 18010
